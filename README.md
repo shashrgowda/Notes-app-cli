@@ -4,7 +4,7 @@ A simple note taking app on command line interface using Node.js & yargs
 - Note - "npm install" before running
 
 # COMMANDS: -
-#To add a new note
+# To add a new note
 - node app.js add --title="your title" --body="your notes"
 
 # To remove an existing note
